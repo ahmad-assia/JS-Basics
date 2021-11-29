@@ -13,4 +13,5 @@ function change(){
         text.style.color = "blue";
     });
 }
+
 change(); 

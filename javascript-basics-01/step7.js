@@ -1,6 +1,6 @@
-vas s =prompt("enter your shoe  size");
+var s =prompt("enter your shoe  size");
 document.getElementById(shoe_size).value=s;
-vas s =prompt("enter your birth year");
+var s =prompt("enter your birth year");
 document.getElementById(birth).value=b;
 function r(){
     re=s*2;

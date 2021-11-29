@@ -26,27 +26,4 @@ function change(){
     }));
 }
 
-function unchange(){
-    if(image1.addEventListener("mouseout", function(){
-        image1.src="images/image1.jpg";
-    }));
-
-    if(image2.addEventListener("mouseout", function(){
-        image2.src="images/image2.jpg";
-    }));
-
-    if(image3.addEventListener("mouseout", function(){
-        image3.src="images/image3.jpg";
-    }));
-
-    if(image4.addEventListener("mouseout", function(){
-        image4.src="images/image4.jpg";
-    }));
-
-    if(image5.addEventListener("mouseout", function(){
-        image5.src="images/image5.jpg";
-    }));
-}
-
-change();
-unchange();
+change();  
